@@ -4,7 +4,7 @@
 #  项目介绍
 &emsp;&emsp;ps/2触控板需要接到开发板的的引脚是data和clock。电源和接地引脚可以接到开发板相应位置，也可以接到其他电源上。具体针脚怎么找，可以搜索触控板芯片的型号，找官方的说明。也可以找笔记本的电路图。
   
-&emsp;&emsp;项目使用了ps/2库和Mouse库。Mouse库可以在arduino ide里下载。ps/2库在我的另一个GitHub仓库
+&emsp;&emsp;项目使用了ps/2库和Mouse库。Mouse库可以在arduino ide里下载。ps/2库在我的另一个[GitHub仓库](https://github.com/cike-567/arduino-ps2-library "前往仓库")。
 
 # 本项目的限制
   
