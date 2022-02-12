@@ -1,5 +1,5 @@
 #include <Mouse.h>
-#include <ps2.h>
+#include <ps2zhuji.h>
 //三个全局变量，用于排除多余的触摸板发送的数据。
 int j,k,l;
 //触控板连接arduino的针脚，可根据自己的需要更改。
